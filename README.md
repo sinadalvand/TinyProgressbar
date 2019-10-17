@@ -3,7 +3,7 @@
 [![Lisense](https://img.shields.io/badge/License-Apache%202-lightgrey.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Download](https://api.bintray.com/packages/sinadalvand/maven/TinyProgressbar/images/download.svg?version=1.0.1) ](https://bintray.com/sinadalvand/maven/TinyProgressbar/1.0.1/link)
 
-Tiny animated progressbar whit reverse animation
+Tiny animated progressbar with reverse animation
 
 
 <img src="https://github.com/sinadalvand/TinyProgressbar/blob/master/art/preview.gif" width="250"/>
