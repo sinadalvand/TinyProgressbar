@@ -45,12 +45,12 @@ Tiny animated progressbar whit reverse animation
 
 ### For start progressing :
 ```
-progress.start()
+TinyProgressbar.start()
 ```
 
 ### For transform to Handle :
 ```
-progress.stop()
+TinyProgressbar.stop()
 ```
 
 
@@ -65,6 +65,15 @@ TinyProgressbar.setProgressRelative(Float per)
 TinyProgressbar.setProgressHeight(Int px) 
 TinyProgressbar.setAnimationDuration(Long millisecond) 
 ```
+
+
+#Who use this Lib:
+```
+Rose Movie Apllication
+<img src="https://github.com/sinadalvand/HandleProgressbar/blob/master/art/real.gif" width="250"/>
+```
+
+
 
 # License
 
