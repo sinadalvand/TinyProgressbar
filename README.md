@@ -69,7 +69,7 @@ TinyProgressbar.setAnimationDuration(Long millisecond)
 
 #Who use this Lib:
 ```
-Rose Movie Apllication
+Rose Movie Application
 ```
 <img src="https://github.com/sinadalvand/TinyProgressbar/blob/master/art/real.gif" width="250"/>
 
