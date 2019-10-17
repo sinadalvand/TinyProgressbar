@@ -6,9 +6,9 @@
 Tiny animated progressbar whit reverse animation
 
 
-<img src="https://github.com/sinadalvand/TinyProgressbar/tree/master/art/preview.gif" width="250"/>
+<img src="https://github.com/sinadalvand/TinyProgressbar/blob/master/art/preview.gif" width="250"/>
 
-<img src="https://github.com/sinadalvand/TinyProgressbar/tree/master/art/demo.gif" width="250"/>
+<img src="https://github.com/sinadalvand/TinyProgressbar/blob/master/art/demo.gif" width="250"/>
 
 ## Gradle & Maven
 ```
@@ -70,9 +70,8 @@ TinyProgressbar.setAnimationDuration(Long millisecond)
 #Who use this Lib:
 ```
 Rose Movie Apllication
-<img src="https://github.com/sinadalvand/TinyProgressbar/tree/master/art/real.gif" width="250"/>
 ```
-
+<img src="https://github.com/sinadalvand/TinyProgressbar/blob/master/art/real.gif" width="250"/>
 
 
 # License
